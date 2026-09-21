@@ -1,46 +1,56 @@
 [
     {
-        "role": "Associate",
+        "role": "Associate / Software Engineer",
         "company": "Cognizant",
-        "period": "Feb 2022 – Present",
-        "location": "Remote/Hybrid",
-        "description": "Leading the modernization of enterprise-scale applications and cloud transformation, bridging the gap between legacy reliability and modern scalability.",
+        "period": "Mar 2022 – Present",
+        "location": "Vilnius, Lithuania",
+        "description": "Modernizing enterprise applications across the frontend, backend, data, security, and cloud layers, using Git-based collaboration and automated delivery practices to support modular architecture, reliable releases, and measurable operational efficiency.",
         "achievements": [
-            "Architected and executed the end-to-end migration of legacy <strong>PHP/Spring</strong> monolithic UIs to a high-performance <strong>Angular & Spring Boot</strong> ecosystem.",
-            "Spearheaded Containerization efforts using <strong>Docker</strong>, creating a standardized environment that eliminated 'it works on my machine' inconsistencies.",
-            "Established automated <strong>CI/CD</strong> Pipelines on <strong>Azure</strong>, transitioning workloads from on-premises servers to <strong>Azure AKS</strong> for 99.9% availability.",
-            "Hardened application security by implementing <strong>Azure AD</strong> for centralized identity management and secure SSO integration.",
-            "Collaborated with cross-functional stakeholders to ensure 100% compliance with stringent industry regulations and security standards."
+            "Modernized legacy enterprise applications by migrating UI modules to <strong>Angular</strong> and restructuring monolithic functionality into modular <strong>Java Spring Boot</strong> services, reducing duplication and improving maintainability, scalability, and feature delivery.",
+            "Designed and developed secure <strong>RESTful APIs</strong> and backend services covering business logic, validation, exception handling, persistence, and integrations across enterprise systems.",
+            "Built reusable Angular components, shared services, reactive forms, and state-management workflows with <strong>TypeScript, RxJS, and NgRx</strong>, standardizing functionality across application modules.",
+            "Optimized <strong>PostgreSQL</strong> queries, indexing, API interactions, and data-access workflows to improve responsiveness and backend processing efficiency for enterprise workloads.",
+            "Automated financial, statutory, regulatory, and governance reporting through custom integrations and data-processing interfaces, reducing manual processing effort by approximately <strong>35%</strong>.",
+            "Strengthened application security with centralized authentication, authorization, and role-based access control using <strong>Spring Security and Azure AD / Entra ID</strong>.",
+            "Containerized application services with <strong>Docker</strong> and supported deployment to <strong>Azure Kubernetes Service (AKS)</strong>, contributing to scalable cloud environments with availability of up to <strong>99.99%</strong>.",
+            "Managed source code with <strong>Git and GitHub</strong> using structured branching, pull requests, and code reviews, then streamlined delivery through automated build, testing, code-quality, and deployment pipelines using <strong>GitHub Actions</strong>."
         ],
         "techStack": [
             "Angular",
+            "Java",
             "Spring Boot",
+            "REST APIs",
+            "PostgreSQL / MSSQL",
+            "TypeScript",
+            "RxJS / NgRx",
             "Azure AKS",
-            "Azure AD",
+            "Azure AD / Entra ID",
             "Docker",
-            "CI/CD"
+            "Git / GitHub",
+            "GitHub Actions"
         ]
     },
     {
         "role": "Senior Analyst",
         "company": "Capgemini",
         "period": "Jun 2019 – Feb 2022",
-        "location": "Office-based",
-        "description": "Focused on UI/UX Engineering and architectural framework development for Fortune 500 energy and industrial clients.",
+        "location": "Hyderabad, India",
+        "description": "Developed and enhanced customer-facing enterprise applications and integration workflows, using Git-based version control and collaborative engineering practices alongside reusable application design, backend integrations, and reliable relational data access.",
         "achievements": [
-            "Developed complex, responsive frontend modules using <strong>Angular</strong>, delivering seamless user experiences for clients like <strong>Baker Hughes</strong>.",
-            "Participated in high-level architectural discussions and technical design reviews, ensuring long-term scalability of the codebase.",
-            "Improved system reliability by writing comprehensive unit tests via <strong>Jasmine</strong> and <strong>Karma</strong>, reaching high code coverage targets.",
-            "Optimized code quality by resolving critical <strong>SonarQube</strong> issues and implementing pair programming best practices.",
-            "Integrated complex <strong>REST APIs</strong>, ensuring smooth data synchronization between the UI and backend services for industrial monitoring tools."
+            "Developed and enhanced customer-facing functionality for international automotive and enterprise applications, creating reusable components and integration workflows that improved usability and maintainability.",
+            "Integrated application features with backend services and enterprise data sources while maintaining relational data-access components across <strong>Microsoft SQL Server and IBM DB2</strong>.",
+            "Identified repetitive development and data-processing activities and implemented automation solutions that improved operational engineering efficiency by approximately <strong>20%</strong>.",
+            "Strengthened application quality through Git-based code reviews, technical design reviews, debugging, unit testing, and pair programming, enabling earlier defect identification and reducing downstream maintenance effort.",
+            "Collaborated with cross-functional teams to translate business requirements into maintainable application features and dependable integration workflows."
         ],
         "techStack": [
             "Angular",
-            "JavaScript/TS",
-            "Jasmine",
-            "Karma",
+            "TypeScript",
             "REST APIs",
-            "SonarQube"
+            "PostgreSQL",
+            "Jasmine / Karma",
+            "SonarQube",
+            "Git / GitHub"
         ]
     }
 ]

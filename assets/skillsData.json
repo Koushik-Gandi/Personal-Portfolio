@@ -53,21 +53,21 @@
     "details": "Java (11 - 17)",
     "proficiency": "Primary",
     "image": "assets/Icons/Java.png",
-    "progress": 70
+    "progress": 80
   },
   {
     "skill": "Backend Development",
     "details": "Springboot",
     "proficiency": "Secondary",
     "image": "assets/Icons/SpringBoot.png",
-    "progress": 70
+    "progress": 80
   },
   {
     "skill": "Backend Development",
     "details": "REST APIs",
     "proficiency": "Secondary",
     "image": "assets/Icons/RestApi.png",
-    "progress": 70
+    "progress": 80
   },
   {
     "skill": "Database Management",
