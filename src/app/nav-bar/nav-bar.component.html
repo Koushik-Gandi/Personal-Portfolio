@@ -1,6 +1,6 @@
 <nav class="navbar">
   <input type="checkbox" id="nav-toggle" />
-  <div class="nav-logo"><b>Koushik Gandi</b></div>
+  <div class="nav-logo" routerLink="/welcome" role="link" tabindex="0" aria-label="Go to welcome page"><b>Koushik Gandi</b></div>
 
   <!-- Hamburger Toggle Button -->
   <label for="nav-toggle" class="hamburger">
@@ -10,7 +10,7 @@
   </label>
 
   <!-- Links -->
-  <div class="nav-links">
+  <div class="nav-links" *ngIf="showNavLinks">
     <a class="nav-link" routerLink="/about" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }"
       (click)="closeMenu()">About</a>
     <a class="nav-link" routerLink="/technical-skills" routerLinkActive="active" (click)="closeMenu()">Skills</a>

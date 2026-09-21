@@ -1,12 +1,12 @@
 [
     {
-        "title": "Full Stack Developer & Angular Specialist",
-        "greeting": "Hi, I'm Mrudhukoushik Gandi..! I craft high-performance user experiences.",
-        "intro": "I am a developer who believes the <strong>Frontend</strong> is the soul of any application. While my toolkit is Full-Stack, my heart is in building <strong>modular, scalable UI architectures</strong> that turn complex data into intuitive human experiences.",
-        "frontendStory": "During my time at <strong>Capgemini</strong>, I honed my expertise in <strong>UI/UX Design</strong> and complex framework development. I worked with global leaders to ensure their interfaces were not just functional, but <strong>architecturally sound</strong> and highly responsive.",
-        "bridgeRole": "At <strong>Cognizant</strong>, I lead <strong>Application Modernization</strong> projects. I specialize in migrating legacy PHP views into <strong>modern Angular ecosystems</strong>, ensuring they are fully <strong>Containerized</strong> and optimized for <strong>Azure Cloud</strong> deployment.",
-        "philosophy": "I apply 'backend rigor' to the frontend. This means <strong>Automated CI/CD</strong>, deep <strong>Sonar</strong> analysis, and 100% commitment to <strong>Jasmine/Karma</strong> unit testing. I build interfaces that are as robust as they are beautiful.",
-        "closing": "Ready to take your <strong>UI Architecture</strong> to the cloud? <strong>Let’s connect!</strong>",
+        "title": "Full Stack Developer | Angular & Spring Boot",
+        "greeting": "Hi, I'm Mrudhukoushik Gandi..! I build reliable, end-to-end digital products.",
+        "intro": "I am a <strong>Full Stack Developer</strong> with experience across the complete application lifecycle: designing <strong>Angular interfaces</strong>, building <strong>Java Spring Boot services and secure REST APIs</strong>, optimizing relational data access, managing changes with <strong>Git and GitHub</strong>, and supporting cloud deployments. I turn complex enterprise requirements into modular systems that are maintainable, testable, scalable, and ready for continuous delivery.",
+        "frontendStory": "At <strong>Capgemini</strong>, I developed customer-facing functionality and reusable application components for international automotive and enterprise applications. I connected frontend workflows with backend services and relational data sources including <strong>PostgreSQL</strong>, while using <strong>Git/GitHub</strong> for version control, collaborative development, code reviews, and structured change management.",
+        "bridgeRole": "At <strong>Cognizant</strong>, I contribute to end-to-end modernization of enterprise applications by migrating legacy PHP UI modules and monolithic functionality into modular <strong>Angular and Java Spring Boot</strong> services. My work spans business logic, validation, exception handling, persistence, integrations, PostgreSQL performance, security with <strong>Spring Security and Azure AD / Entra ID</strong>, and containerized deployment to <strong>Azure AKS</strong>.",
+        "philosophy": "I treat quality as a full-stack responsibility: clear API contracts, resilient backend services, well-modeled data, secure authentication and role-based access control, disciplined <strong>Git/GitHub workflows</strong>, automated <strong>CI/CD</strong>, containerization, and focused unit testing. I enjoy removing repetitive work through automation and building reliable systems that teams can extend with confidence.",
+        "closing": "Building a product from interface to infrastructure? <strong>Let's connect!</strong>",
         "linkedInUrl": "https://www.linkedin.com/in/mrudhukoushikgandi/",
         "email": "gandi.koushikbantu@gmail.com",
         "github": "https://github.com/Koushik-Gandi"

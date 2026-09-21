@@ -14,6 +14,8 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { AddSkillComponent } from './add-skill/add-skill.component';
 import { DisplayAllSkillsComponent } from './display-all-skills/display-all-skills.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { WelcomeComponent } from './welcome/welcome.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +26,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     CertificationsComponent,
     EducationComponent,
     AddSkillComponent,
-    DisplayAllSkillsComponent
+    DisplayAllSkillsComponent,
+    WelcomeComponent
   ],
   imports: [
     BrowserModule,

@@ -1,5 +1,5 @@
 <h2 class="header text-center">About Me</h2>
-<section class="frontend-portfolio">
+<section class="frontend-portfolio" @fadeIn>
   <div class="location">
     <h5 [innerHTML]="getSafeHtml(details.title)"></h5>
     Currently based in Vilnius, Lithuania — open to relocate
@@ -16,17 +16,17 @@
       <p [innerHTML]="getSafeHtml(details.intro)"></p>
     </div>
 
-    <!-- Frontend Specialization Cards -->
+    <!-- Full-stack specialization cards -->
     <div class="specialization-grid">
       <div class="spec-card">
         <div class="icon"><i class="fas fa-layer-group"></i></div>
-        <h3>The Foundation</h3>
+        <h3>Application Foundations</h3>
         <p [innerHTML]="getSafeHtml(details.frontendStory)"></p>
       </div>
 
       <div class="spec-card highlight">
         <div class="icon"><i class="fab fa-angular"></i></div>
-        <h3>Modernization & Cloud</h3>
+        <h3>Modernization & Cloud Delivery</h3>
         <p [innerHTML]="getSafeHtml(details.bridgeRole)"></p>
       </div>
     </div>

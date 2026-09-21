@@ -2,7 +2,7 @@
   <button class="tab-button" [class.active]="selectedTab === 'experience'"
     (click)="selectedTab = 'experience'">Experience</button>
   <button class="tab-button" [class.active]="selectedTab === 'projects'"
-    (click)="selectedTab = 'projects'">Projects</button>
+    (click)="selectedTab = 'projects'">Personal Projects</button>
 </div>
 
 <section *ngIf="selectedTab === 'experience'">

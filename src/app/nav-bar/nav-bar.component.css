@@ -22,6 +22,7 @@
 .nav-logo {
   font-size: 18px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 #nav-toggle {
